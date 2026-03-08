@@ -52,7 +52,8 @@ export default function GameMemory({ difficulty, color }) {
 
   const cardStyle = {
     border: `2px solid ${color}`,
-    borderRadius: "12px",
+    borderRadius: "12px", 
+    
     padding: "15px",
     textAlign: "center",
     color,
